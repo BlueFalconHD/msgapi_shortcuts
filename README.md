@@ -1,1 +1,2 @@
-# msgapi_shortcuts
+# MSG API
+- For Shortcuts -
